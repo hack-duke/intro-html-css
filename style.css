@@ -1,0 +1,45 @@
+.header {
+	color: white;
+	background-color: #2A3139;
+	text-align: center;
+	padding: 20px;
+}
+.info {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.info > li {
+	display: inline-block;
+}
+.info > li > a {
+	color: white;
+	text-decoration: none;
+	padding: 0 10px;
+}
+.nav {
+	text-align: center;
+	background-color: #8995AE;
+	padding: 20px 0;
+}
+.nav > ul {
+	padding: 0;
+	margin: 0;
+}
+.nav > ul > li {
+	display: inline-block;
+	padding: 0 20px;
+}
+.nav > ul > li > a {
+	color: #2A3139;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: 900;
+}
+.section {
+	width: 60%;
+	margin: 40px auto;
+}
+.section > ul {
+	list-style: none;
+}
