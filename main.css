@@ -1,0 +1,23 @@
+.header {
+	color: white;
+	background-color: #2A3139;
+	text-align: center;
+	padding: 20px;
+}
+
+.header a {
+	color: white;
+}
+
+.section {
+	text-align: center;
+	border: solid 1px #2A3139;
+}
+
+.section ul {
+	list-style: none;
+}
+
+.section li {
+	padding-top: 15px;
+}
